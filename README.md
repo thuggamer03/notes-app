@@ -1,2 +1,2 @@
-# note commanding app
-It's a simple notes app made by using Node.Js . I made this as a beginner project while learning Node. It has four common commands which can be using help or h command. To run the app copy paste the code of both files in two different files in vs code with extension .js and run the command:- &lt;node app.js --help> . This will show you the commands. Note:- app.js is my file name so use the command accordingly.  Also I have used following npm modules which need to be installed in your system for successful compilation of code:- 1. chalk 2. yargs .
+# note app
+It's a simple notes app made by using javascript . I made this as a beginner project while learning javascript. It is a good project for beginners and can be done easily. It just need basic HTML, CSS and JS. 
